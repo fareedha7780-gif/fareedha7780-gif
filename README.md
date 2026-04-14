@@ -15,7 +15,13 @@ focus:
   - CI/CD Pipelines
   - Container Orchestration
   - Infrastructure as Code
-currently_learning: Platform Engineering & FinOps
+experience:
+  - Middleware Support(JBoss , Weblogic , IIS , Apache , Tomcat)
+currently_learning: 
+  - Bash Scripting
+  - Docker
+  - CI/CD
+  - jenkins
 fun_fact: I automate things so I can have more coffee ☕
 ```
  
