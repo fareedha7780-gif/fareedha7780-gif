@@ -76,7 +76,7 @@ fun_fact: I automate things so I can have more coffee ☕
 ### 🤝 Connect with Me
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/fareedha-dudekula-419565275?utm_source=share_via&utm_content=profile&utm_medium=member_android
- ))
+ )
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](fareedha7780@gmail.com)
  
 ---
