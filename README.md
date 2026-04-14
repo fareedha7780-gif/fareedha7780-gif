@@ -28,34 +28,23 @@ fun_fact: I automate things so I can have more coffee ☕
 ---
  
 ### 🛠️ Tech Stack & Tools
- 
-<!-- Cloud -->
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+ <!-- Cloud -->
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
- 
+
 <!-- Containers & Orchestration -->
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=flat-square&logo=helm&logoColor=white)
- 
-<!-- IaC -->
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=flat-square&logo=ansible&logoColor=white)
- 
+
+
 <!-- CI/CD -->
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat-square&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat-square&logo=argo&logoColor=white)
  
 <!-- Monitoring -->
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
- 
+
 <!-- Languages & Scripting -->
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-%23CB171E.svg?style=flat-square&logo=yaml&logoColor=white)
  
 ---
  
@@ -86,8 +75,9 @@ fun_fact: I automate things so I can have more coffee ☕
  
 ### 🤝 Connect with Me
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fareedha)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:fareedha@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/fareedha-dudekula-419565275?utm_source=share_via&utm_content=profile&utm_medium=member_android
+ ))
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](fareedha7780@gmail.com)
  
 ---
  
